@@ -37,20 +37,6 @@ If you're reading this on GitHub, here is a quick link: [Open StudyReport.pdf](S
    python evaluate.py
    ```
 
-## Repository Structure
-
-```
-SVNH-CNN-PyTorch/
-│
-├── data/                # Optional dataset folder
-├── model/               # CNN model definition
-├── train.py             # Training pipeline
-├── evaluate.py          # Evaluation script
-├── utils.py             # Helper functions
-├── StudyReport.pdf      # Full documentation (page 12 relevant)
-└── README.md
-```
-
 ## Dataset
 
 This project uses the SVHN dataset:
